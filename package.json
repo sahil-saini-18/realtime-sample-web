@@ -1,7 +1,6 @@
 {
   "name": "realtime-sample-web",
   "version": "0.0.1",
-  "private": true,
   "type": "module",
   "description": "OpenAI Realtime API Reference Client (beta)",
   "main": "index.js",
